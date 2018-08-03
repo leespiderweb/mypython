@@ -17,3 +17,4 @@ for i  in  range(scale+1):
 
 
 print("\n"+"打印结束".center(scale//2,"-"))
+print("eeeeeeeeeeeeeeeeeeee")
